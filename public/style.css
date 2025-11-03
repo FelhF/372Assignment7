@@ -1,0 +1,23 @@
+div{
+    background-color: lightgray;
+    font-size: 12pt;
+}
+
+.Category, .Setup, .Delivery{
+    font-size: 20pt;
+}
+
+.Category{
+    color: darkblue;
+}
+
+.CategoryClass{
+    font-size: 20px;
+    margin-right: 20px;
+    width:200px;
+    height: 50px;
+}
+
+#jokebook-container{
+    background-color: white;
+}

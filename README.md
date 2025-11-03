@@ -1,1 +1,4 @@
 # 372Assignment7
+
+## VIDEO
+https://uncg-my.sharepoint.com/:v:/g/personal/felagoshern_uncg_edu/EUhwAKbtu2JLqYm5R1Vlfs8Bi9HeEsw0iuvv5ddoQOXKAA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4wFmvx
